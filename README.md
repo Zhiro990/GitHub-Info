@@ -54,7 +54,7 @@ const GitHubInfo = require("GitHub-Info");
 ## Usage
 
 ```js
-let githubinfo = new GitHubInfo("YOUR_GITHUB_TOKEN");
+const githubinfo = new GitHubInfo("YOUR_GITHUB_TOKEN");
 ```
 
 ## GitHubInfo
