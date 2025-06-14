@@ -1,4 +1,4 @@
-<h1 align="center"> { Github-Info } </h1>
+<h1 align="center"> { GitHub-Info } </h1>
 
 A simple project that can help you in using the GitHub API.
 
@@ -42,13 +42,13 @@ A simple project that can help you in using the GitHub API.
 ## Installing
 
 ```bash
-npm install Zhiro990/Github-Info
+npm install Zhiro990/GitHub-Info
 ```
 
 ## Importing
 
 ```js
-const GitHubInfo = require("Github-Info");
+const GitHubInfo = require("GitHub-Info");
 ```
 
 ## Usage
